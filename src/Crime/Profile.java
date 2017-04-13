@@ -18,6 +18,7 @@ public class Profile {
 		protected String gender;
 		protected String category;
 		protected String password;
+
 		public String getName() {
 			return name;
 		}
